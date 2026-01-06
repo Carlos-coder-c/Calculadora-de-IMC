@@ -75,7 +75,7 @@ Este projeto tem fins educacionais e não substitui avaliação médica.
 
 👨‍💻 Autor
 
-Desenvolvido por Carlos / Jonas / Tanjiro
+Desenvolvido por Carlos 
 📌 Programador em aprendizado contínuo com Python
 
 📄 Licença
